@@ -8,5 +8,5 @@ menu: main
 
 ---
 
-{{< figure src="/team/dbs.jpeg" title="Deborah Steinberger" width="30%" align="left" >}}
+{{< figure src="dbs.jpeg" title="Deborah Steinberger" width="100%" >}}
 Deborah Steinberger, University of Delaware
