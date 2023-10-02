@@ -7,5 +7,5 @@ type: page
 menu: main
 
 ---
-<img style="border:30px solid white;" src="images/deb.jpeg" alt="" width="30%" align="left" />
+<img style="border:30px solid white;" src="/images/deb.jpeg" alt="" width="30%" align="left" />
 Deborah Steinberger, University of Delaware
