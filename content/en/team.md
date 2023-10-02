@@ -11,5 +11,5 @@ menu: main
 {{< figure src="dbs.jpeg" title="Deborah Steinberger (University of Delaware)" width="25%" >}}
 
 <html>
-<img style="border:30px solid white;" src="dbs.jpeg" alt="" width="30%" align="left" /> Deborah Steinberger (University of Delaware)
+<img style="border:30px solid white;" src="./dbs.jpeg" alt="" width="30%" align="left" /> Deborah Steinberger (University of Delaware)
 </html>
