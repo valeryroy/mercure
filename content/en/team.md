@@ -8,5 +8,4 @@ menu: main
 
 ---
 
-{{< figure src="dbs.jpeg" title="Deborah Steinberger" width="100%" >}}
-Deborah Steinberger, University of Delaware
+{{< figure src="dbs.jpeg" title="Deborah Steinberger, University of Delaware" width="100%" >}}
