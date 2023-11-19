@@ -9,6 +9,7 @@ featured_image: "/images/femme_lisant_le_mercure_galant.jpg"
 ---
 
 {{< figure src="dbs.jpeg" title="Deborah Steinberger (University of Delaware)" width="25%" >}}
+
 {{< figure src="stedman.jpeg" title="Allison Stedman (University of North Carolina at Charlotte" width="25%" >}}
 {{< figure src="schuwey.jpeg" title="Christophe Schuwey (Université Bretagne Sud)" width="25%" >}}
 {{< figure src="perlmutter.jpeg" title="Jennifer Perlmutter (Portland State University)" width="25%" >}}
