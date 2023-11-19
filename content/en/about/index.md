@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: " "
 description: " "
 featured_image: '/images/Mercure_Galant3.png'
 menu:
