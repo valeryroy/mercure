@@ -4,15 +4,15 @@ featured_image: "/images/mercure-galant.jpg"
 title: "Stories"
 ---
 
-## Project Outline
+# Project Outline
 
         Editors’ Introduction (Stedman and Steinberger)
 
-Part I: The Mercure Galant and Its Readers
+### Part I: The Mercure Galant and Its Readers
 
     1. “Letter from Two Cousins” (1678) (Turnovsky)
 
-Part II: Material Culture and Commercial Ventures
+### Part II: Material Culture and Commercial Ventures
 
      2. “The Suspected False Teeth” (1678) (Dauge-Roth)
      
@@ -22,7 +22,7 @@ Part II: Material Culture and Commercial Ventures
       
       5. “The New Year’s Gift” (1680) (Schuwey)
 
-Part III: Women and Gender
+### Part III: Women and Gender
 
       6. “Letter from a Lady Describing Her Friend’s Adventures” (1680) (Dahl)
       
@@ -38,7 +38,7 @@ Part III: Women and Gender
 
 [*indicates translations undertaken during the summer of 2023 thanks to a stipend from the National Endowment for the Humanities]
 
-Part IV: Writing the Other: Race, Class, Religion
+### Part IV: Writing the Other: Race, Class, Religion
 
      12. “Story of a Solitary Man” (1677) (Perlmutter)
 
