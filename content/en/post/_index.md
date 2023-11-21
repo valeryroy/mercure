@@ -4,7 +4,7 @@ featured_image: "/images/mercure-galant.jpg"
 title: "Stories"
 ---
 
-Project Outline
+## Project Outline
 
         Editors’ Introduction (Stedman and Steinberger)
 
