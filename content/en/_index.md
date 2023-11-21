@@ -10,18 +10,7 @@ cascade:
 
 ## Synopsis
 
-From 1672 to 1710, editor in chief Jean Donneau de Visé published 488
-in-12 volumes of the Le Mercure Galant, **one of the most important
-rench cultural artifacts of the turn of the 18th century**.
-This pioneering publication combined news, entertainment, and
-pro-Louis XIV propaganda, while covering a vast range of topics,
-from science and philosophy to military affairs, from court
-celebrations to the arts and fashion. Some of its reader-centered
-innovations, such the publication of letters to the editor and puzzle
-contests, are still standard fare in modern newspapers and magazines.
-Alongside the reports on current events, the Mercure also featured
-poetry, fables, and nouvelles--short stories presented as fact, with
-contemporary settings and characters.
+From 1672 to 1710, editor in chief Jean Donneau de Visé published 488 in-12 volumes of the Le Mercure Galant, **one of the most important French cultural artifacts of the turn of the 18th century**. This pioneering publication combined news, entertainment, and pro-Louis XIV propaganda, while covering a vast range of topics, from science and philosophy to military affairs, from court celebrations to the arts and fashion. Some of its reader-centered innovations, such the publication of letters to the editor and puzzle contests, are still standard fare in modern newspapers and magazines. Alongside the reports on current events, the Mercure also featured poetry, fables, and nouvelles--short stories presented as fact, with contemporary settings and characters.
         
         Our proposed digital bilingual critical anthology will focus on
         twenty of the nearly four hundred nouvelles that were published
