@@ -1,13 +1,12 @@
 ---
 date: 2023-11-20
-description: "The Grand Hall"
 featured_image: "/images/mercure-galant.jpg"
-title: "Stories from Le Mercure Galant: Project Outline"
+title: "Stories from Le Mercure Galant"
 ---
 
-Stories from Le Mercure Galant: Project Outline
+Project Outline
 
-Editors’ Introduction (Stedman and Steinberger)
+        Editors’ Introduction (Stedman and Steinberger)
 
 Part I: The Mercure Galant and Its Readers
 
