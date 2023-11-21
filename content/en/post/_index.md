@@ -1,7 +1,7 @@
 ---
 date: 2023-11-20
 featured_image: "/images/mercure-galant.jpg"
-title: "Stories from Le Mercure Galant"
+title: "Stories"
 ---
 
 Project Outline
