@@ -3,7 +3,15 @@ date: 2023-11-20
 featured_image: "/images/mercure-galant.jpg"
 title: "Stories"
 ---
-
+.sans-serif {
+  font-family: -apple-system, BlinkMacSystemFont,
+               'avenir next', avenir,
+               helvetica, 'helvetica neue',
+               ubuntu,
+               roboto, noto,
+               'segoe ui', arial,
+               sans-serif;
+}
 ## Project Outline
 
         Editors’ Introduction (Stedman and Steinberger)
