@@ -22,6 +22,7 @@ Synopsis
         Alongside the reports on current events, the Mercure also featured
         poetry, fables, and nouvelles--short stories presented as fact, with
         contemporary settings and characters.
+        
         Our proposed digital bilingual critical anthology will focus on
         twenty of the nearly four hundred nouvelles that were published
         during Donneau de Visé’s years at the Mercure’s helm (1672-1710).
