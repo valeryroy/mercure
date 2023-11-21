@@ -6,7 +6,7 @@ title: "Stories"
 
 # Project Outline
 
-        Editors’ Introduction (Stedman and Steinberger)
+###  Editors’ Introduction (Stedman and Steinberger)
 
 ### Part I: The Mercure Galant and Its Readers
 
